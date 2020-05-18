@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ft4-react-assignment-2/precache-manifest.a9cb837e6d579572f8c7ced0a1f15c09.js"
+  "/ft4-react-assignment-2/precache-manifest.9571742fa9f18f9f9a65c9a81114c705.js"
 );
 
 self.addEventListener('message', (event) => {
