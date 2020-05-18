@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ft4-react-assignment-2/static/css/main.69eda509.chunk.css",
-    "main.js": "/ft4-react-assignment-2/static/js/main.c38ae1a7.chunk.js",
-    "main.js.map": "/ft4-react-assignment-2/static/js/main.c38ae1a7.chunk.js.map",
+    "main.js": "/ft4-react-assignment-2/static/js/main.818af2a9.chunk.js",
+    "main.js.map": "/ft4-react-assignment-2/static/js/main.818af2a9.chunk.js.map",
     "runtime-main.js": "/ft4-react-assignment-2/static/js/runtime-main.81ef854d.js",
     "runtime-main.js.map": "/ft4-react-assignment-2/static/js/runtime-main.81ef854d.js.map",
     "static/js/2.2ee06dd7.chunk.js": "/ft4-react-assignment-2/static/js/2.2ee06dd7.chunk.js",
     "static/js/2.2ee06dd7.chunk.js.map": "/ft4-react-assignment-2/static/js/2.2ee06dd7.chunk.js.map",
     "index.html": "/ft4-react-assignment-2/index.html",
-    "precache-manifest.97a43a7f34d5384f188eb4b7e4bf4979.js": "/ft4-react-assignment-2/precache-manifest.97a43a7f34d5384f188eb4b7e4bf4979.js",
+    "precache-manifest.a9cb837e6d579572f8c7ced0a1f15c09.js": "/ft4-react-assignment-2/precache-manifest.a9cb837e6d579572f8c7ced0a1f15c09.js",
     "service-worker.js": "/ft4-react-assignment-2/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/ft4-react-assignment-2/static/css/main.69eda509.chunk.css.map",
     "static/js/2.2ee06dd7.chunk.js.LICENSE.txt": "/ft4-react-assignment-2/static/js/2.2ee06dd7.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.81ef854d.js",
     "static/js/2.2ee06dd7.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.c38ae1a7.chunk.js"
+    "static/js/main.818af2a9.chunk.js"
   ]
 }

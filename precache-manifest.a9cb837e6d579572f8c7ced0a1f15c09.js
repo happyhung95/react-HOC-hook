@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a41b691d1966a38ed423d8db74a72fb",
+    "revision": "71fcc1e1d9dfbb82de913475616973aa",
     "url": "/ft4-react-assignment-2/index.html"
   },
   {
-    "revision": "2349f706b653c6df5bf8",
+    "revision": "a24cd68e0ce57b55e630",
     "url": "/ft4-react-assignment-2/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ft4-react-assignment-2/static/js/2.2ee06dd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2349f706b653c6df5bf8",
-    "url": "/ft4-react-assignment-2/static/js/main.c38ae1a7.chunk.js"
+    "revision": "a24cd68e0ce57b55e630",
+    "url": "/ft4-react-assignment-2/static/js/main.818af2a9.chunk.js"
   },
   {
     "revision": "96bfce40569ad606c08d",
